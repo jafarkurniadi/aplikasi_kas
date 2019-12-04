@@ -1,0 +1,12 @@
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\bin\Debug\kas.exe.config
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\bin\Debug\kas.exe
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\bin\Debug\kas.pdb
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\bin\Debug\kas.xml
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.vbprojAssemblyReference.cache
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.Form1.resources
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.Resources.resources
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.vbproj.GenerateResource.cache
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.exe
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.xml
+C:\Users\User\Documents\SEMESTER V\praktikum Visual\kas\kas\obj\Debug\kas.pdb

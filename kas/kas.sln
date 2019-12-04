@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kas", "kas\kas.vbproj", "{5B0EFE67-4CED-4D05-9DE9-F79C16081F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0EFE67-4CED-4D05-9DE9-F79C16081F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0EFE67-4CED-4D05-9DE9-F79C16081F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0EFE67-4CED-4D05-9DE9-F79C16081F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0EFE67-4CED-4D05-9DE9-F79C16081F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00185D3-DFF8-421C-95D9-90525350AF66}
+	EndGlobalSection
+EndGlobal
